@@ -21,6 +21,7 @@ public class TabsActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager viewPager;
+    private int i;
 
 
     @Override
